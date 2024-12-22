@@ -1,0 +1,14 @@
+{
+    "entities": [
+        {
+            "name": "User",
+            "attributes": {
+                "id": "integer",
+                "name": "string",
+                "email": "string",
+                "created_at": "datetime"
+            },
+            "relationships": []
+        }
+    ]
+}
